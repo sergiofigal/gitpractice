@@ -7,7 +7,7 @@ Estamos agregando nuestro primer archivo
 
 ## Home
 
-La home page está en home.html.
+La home page está en index.html.
 
 ## About
 
