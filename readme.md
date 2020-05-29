@@ -7,4 +7,8 @@ Estamos agregando nuestro primer archivo
 
 ## Home
 
-La home page está en home.html
+La home page está en home.html.
+
+## About
+
+Contenido de la página Acerca de en about.html.
